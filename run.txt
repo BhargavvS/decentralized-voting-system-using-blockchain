@@ -1,0 +1,5 @@
+C:\Users\bharg\npm-global
+ganache-cli -d
+truffle migrate --reset
+SPDX-License-Identifier: MIT
+SPDX-License-Identifier: MIT
